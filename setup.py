@@ -19,7 +19,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=['resampy==0.2.2',
+    install_requires=['resampy==0.3.0',
                       'librosa==0.6.0',
                       'numba==0.37.0',
                       'numpy==1.17.3',
