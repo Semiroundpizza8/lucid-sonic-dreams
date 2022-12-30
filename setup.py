@@ -20,7 +20,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=['resampy==0.3.1',
-                      'librosa==0.7.0',
+                      'librosa==0.6.3',
                       'numba==0.37.0',
                       'numpy==1.17.3',
                       'tensorflow==1.15',
