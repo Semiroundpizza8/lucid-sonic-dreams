@@ -26,7 +26,7 @@ from .sample_effects import *
 
 # Clone Official StyleGAN2-ADA Repository
 if not os.path.exists('stylegan2'):
-  pygit2.clone_repository('https://github.com/NVlabs/stylegan2-ada.git',
+  pygit2.clone_repository('https://github.com/NVlabs/stylegan2-ada-pytorch',
                           'stylegan2')
 
 #StyleGAN2 Imports
