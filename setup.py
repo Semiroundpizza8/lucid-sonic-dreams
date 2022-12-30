@@ -20,6 +20,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=['click',
+                      'moviepy==0.2.3.5',                    
                       'requests',
                       'tqdm',
                       'ninja',
