@@ -4,15 +4,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lucidsonicdreams", 
-    version="0.42",
-    author="The AI Repair Guy",
-    author_email="anon@gmail.com",
+    name="lucidsonicdreamsv2", 
+    version="0.01",
+    author="BigZaddy",
+    author_email="@gmail.com",
     description="Syncs GAN-generated visuals to music",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pollinations/lucid-sonic-dreams",
-    download_url="https://github.com/pollinations/lucid-sonic-dreams/archive/refs/tags/v_04.tar.gz",
+    url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams",
+    download_url="https://github.com/DeFi-Coder-News-Letter/lucid-sonic-dreams/lucid-sonic-dreams.tar.gz",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
