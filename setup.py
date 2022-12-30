@@ -23,6 +23,7 @@ setuptools.setup(
                       'requests',
                       'tqdm',
                       'ninja',
+                      'imageio==2.4.1',
                       'imageio-ffmpeg==0.4.3',
                       'pyspng==0.1.0']
 )
