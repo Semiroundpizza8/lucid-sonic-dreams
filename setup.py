@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lucidsonicdreamsv2", 
+    name="lucidsonicdreams", 
     version="0.01",
     author="BigZaddy",
     author_email="@gmail.com",
